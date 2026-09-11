@@ -36,6 +36,9 @@ The model estimated a 34.43% reduction in illegal wildlife trade after implement
 
 Wu, Q., Li, F., & Zhou, Y. (2024). A Study on Combating Illegal Trade in Green Sea Turtles Based on a Multi-Model Strategy. *Highlights in Business, Economics and Management, 33*, 426–434.
 
+- [Read the published paper](https://doi.org/10.54097/m2ve8z63)
+- License: CC BY-NC 4.0
+
 ## Project Context
 
 This was a team project completed for the 2024 National Undergraduate Statistical Modeling Competition. My specific contributions will be described in a later update.
